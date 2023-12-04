@@ -12,5 +12,9 @@ Process:
 
 **Usage**
 
-Open project on Quartus Software and recompile with desired pin assignments. I used Quartus Prime 22.1std Lite Edition.
+Open project on Quartus Software and recompile with desired pin assignments. Quartus Prime 22.1std Lite Edition and DE10-Lite Board 10M50DAF484C7G were used for this garage's implementation.
+
+
+
+
 
