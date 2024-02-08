@@ -1,7 +1,7 @@
 # Mini-Garage
 The project implements the following: a special place has a special type of a garage; a man is responsible for opening a gate whenever he sees a car; once the car enters after the gate opens, the monitor increases the number of entering cars by 1, and the gate closes.
 
-Process:
+**Process:**
 1) Initially, the number of cars is zero.
 2) A button simulates the man who opens the gate.
 3) A sensor detects that the car has passed the gate.
